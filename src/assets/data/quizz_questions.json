@@ -1,9 +1,9 @@
 {
-  "title": "Você seria um heroi ou vilão?",
+  "title": "Você seria um herói ou vilão?",
   "questions": [
     {
       "id": 1,
-      "question": "Qual super poder você escolheria?",
+      "question": "Qual superpoder você escolheria?",
       "options": [
         {
           "id": 1,
@@ -29,6 +29,21 @@
           "id": 5,
           "name": "Soltar fogo pelas mãos",
           "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Invisibilidade",
+          "alias": "B"
+        },
+        {
+          "id": 7,
+          "name": "Controle mental",
+          "alias": "A"
+        },
+        {
+          "id": 8,
+          "name": "Teletransporte",
+          "alias": "B"
         }
       ]
     },
@@ -50,12 +65,27 @@
           "id": 3,
           "name": "Não saberia escolher",
           "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Animais",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Amigos e familiares",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Pessoas em perigo imediato",
+          "alias": "B"
         }
       ]
     },
     {
       "id": 3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser?",
+      "question": "Qual a sua maior preocupação ao enfrentar outro super ser?",
       "options": [
         {
           "id": 1,
@@ -76,6 +106,16 @@
           "id": 4,
           "name": "Não deixar ninguém se ferir",
           "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Entender as motivações do inimigo",
+          "alias": "B"
+        },
+        {
+          "id": 6,
+          "name": "Evitar danos colaterais",
+          "alias": "A"
         }
       ]
     },
@@ -92,6 +132,16 @@
           "id": 2,
           "name": "Salvar a cidade",
           "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Explorar o mundo",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Proteger o universo",
+          "alias": "B"
         }
       ]
     },
@@ -101,12 +151,32 @@
       "options": [
         {
           "id": 1,
-          "name": "O Terrivel",
+          "name": "O Terrível",
           "alias": "A"
         },
         {
           "id": 2,
           "name": "Amigo da vizinhança",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Mestre das Sombras",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Guardião Celestial",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Senhor(a) dos(as) Elementos",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Protetor(a) Dimensional",
           "alias": "B"
         }
       ]
